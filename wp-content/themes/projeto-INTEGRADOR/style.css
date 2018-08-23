@@ -1,0 +1,41 @@
+h1{
+    color: #f00;
+}
+body{
+    margin: 0px;
+    
+}
+.topo{
+    background-color: #FB7D07;
+    color: white;
+    height: 80px;
+}
+
+.content-page{
+    margin: auto;
+    width: 900px;
+}
+
+.nav-principal ul li{
+	display:inline-block;
+	list-style:none;
+}
+.nav-principal ul a{
+	text-decoration: none;
+	padding:10px;
+	display:block;
+	color:#fff;
+}
+.nav-principal{
+	background-color:#444;
+	margin-top: -20px;
+}
+
+.nav-principal ul a:hover{
+	background-color:#999;
+}
+
+ #local-sidebar{
+	float: right;
+	background-color: #ccc;
+ }
